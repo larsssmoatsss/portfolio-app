@@ -8,7 +8,7 @@ A clean, minimalist portfolio site showcasing my full-stack development projects
 
 ## Design
 
-Inspired by the Nintendo DS menu aesthetic with:
+Inspired by classic minimalist menu aesthetics with:
 - Clean grey grid background
 - Card-based project layout
 - Smooth hover animations
