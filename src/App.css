@@ -141,11 +141,23 @@ body {
 }
 
 .project-card:nth-child(2) {
-  animation-delay: 0.2s;
+  animation-delay: 0.15s;
 }
 
 .project-card:nth-child(3) {
+  animation-delay: 0.2s;
+}
+
+.project-card:nth-child(4) {
+  animation-delay: 0.25s;
+}
+
+.project-card:nth-child(5) {
   animation-delay: 0.3s;
+}
+
+.project-card:nth-child(6) {
+  animation-delay: 0.35s;
 }
 
 .project-card:hover {

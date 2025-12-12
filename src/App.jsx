@@ -7,6 +7,33 @@ function App() {
   const projects = [
     {
       id: 1,
+      title: "PictoChatter",
+      description: "Real-time collaborative drawing and messaging app inspired by Nintendo DS PictoChat. Features WebSocket sync, persistent messaging, and multi-room support.",
+      tech: ["Node.js", "WebSocket", "SQLite", "Express"],
+      liveUrl: "https://pictochatter.onrender.com",
+      githubUrl: "https://github.com/larsssmoatsss/pictochatter",
+      color: "#E91E63"
+    },
+    {
+      id: 2,
+      title: "Task Queue Visualizer",
+      description: "Visual demonstration of async task processing with real-time queue management, job states, and distributed systems patterns.",
+      tech: ["React", "Node.js", "Redis", "WebSocket"],
+      liveUrl: "https://task-queue-visualizer.vercel.app",
+      githubUrl: "https://github.com/larsssmoatsss/task-queue-visualizer",
+      color: "#FF9800"
+    },
+    {
+      id: 3,
+      title: "Barcode Battler",
+      description: "Game Boy-style monster collection game that scans real-world barcodes to generate unique creatures with stats and battle abilities.",
+      tech: ["React", "Canvas API", "Barcode Scanner", "Game Logic"],
+      liveUrl: "https://barcode-battler-ten.vercel.app",
+      githubUrl: "https://github.com/larsssmoatsss/barcode-battler",
+      color: "#8BC34A"
+    },
+    {
+      id: 4,
       title: "User Auth Demo",
       description: "Full-stack authentication system with secure login, registration, and session management.",
       tech: ["Node.js", "Express", "React", "PostgreSQL"],
@@ -15,7 +42,7 @@ function App() {
       color: "#4A90E2"
     },
     {
-      id: 2,
+      id: 5,
       title: "Rate Limiter Dashboard",
       description: "Visual demonstration of API rate limiting with real-time progress bars and request tracking.",
       tech: ["React", "Node.js", "Express", "Rate Limiting"],
@@ -24,7 +51,7 @@ function App() {
       color: "#50C878"
     },
     {
-      id: 3,
+      id: 6,
       title: "Spotijudge",
       description: "Spotify integration with OAuth that analyzes your music taste using a custom scoring algorithm.",
       tech: ["Flask", "PostgreSQL", "Docker", "Spotify API"],

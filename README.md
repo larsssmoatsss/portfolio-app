@@ -16,13 +16,16 @@ Inspired by the Nintendo DS menu aesthetic with:
 
 ## Projects Featured
 
+- **PictoChatter** - Real-time collaborative drawing app with WebSocket sync
+- **Task Queue Visualizer** - Async task processing demonstration
+- **Barcode Battler** - Game Boy-style monster collection game
 - **User Auth Demo** - Full-stack authentication system
 - **Rate Limiter Dashboard** - API rate limiting visualization
 - **Spotijudge** - Spotify music taste analyzer
 
 ## Tech Stack
 
-- React 18
+- React 19
 - CSS3 (Grid & Flexbox)
 - Deployed on Vercel
 
