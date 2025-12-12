@@ -17,7 +17,7 @@ function App() {
     {
       id: 2,
       title: "Task Queue Visualizer",
-      description: "Visual demonstration of async task processing with real-time queue management, job states, and distributed systems patterns.",
+      description: "Visual demonstration of async task processing with real-time queue management, job states, and distributed systems patterns. (note: live demo is hosted on a free tier and has long cold start-up times)",
       tech: ["React", "Node.js", "Redis", "WebSocket"],
       liveUrl: "https://task-queue-visualizer.vercel.app",
       githubUrl: "https://github.com/larsssmoatsss/task-queue-visualizer",
